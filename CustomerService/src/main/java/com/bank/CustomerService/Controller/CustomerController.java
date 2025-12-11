@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.bank.CustomerService.DTO.CustomerDTO;
-import com.bank.CustomerService.Model.Customer;
 import com.bank.CustomerService.Service.CustomerService;
 
 @RestController
